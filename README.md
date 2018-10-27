@@ -1,5 +1,6 @@
 # Bamazon
 
+<<<<<<< HEAD
 
 Bamazon is an Amazone-like onine store front store that takes in the the ID and quantity of the product from the customer.
 Here the user assumes the role of customer.
