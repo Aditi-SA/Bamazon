@@ -1,9 +1,7 @@
 # Bamazon
 
-<<<<<<< HEAD
-
 Bamazon is an Amazone-like onine store front store.
-The app takes in the orders (ID and quantity of the product)and depletes the stock from store's inventory.
+The app takes in the orders (ID and quantity of the product) and depletes the stock from store's inventory.
 
 This is a CLI application.
 
