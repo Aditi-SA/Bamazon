@@ -16,7 +16,7 @@ connection.connect(function (err) {
         console.error("error connecting: " + err.stack);
         return;
     }
-    console.log("connected as id " + connection.threadId);
+    //console.log("connected as id " + connection.threadId);
 });
 
 //variable to display the products only at login
@@ -27,7 +27,7 @@ function start() {
     connection.query("SELECT * FROM products", function (err, results) {
         if (err) throw err;
 
-        console.log(' ');
+        //console.log(' ');
         console.log("***************Bamazon***************");
         console.log("*************************************");
         console.log(' ');
