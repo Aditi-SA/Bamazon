@@ -1,6 +1,6 @@
 # Bamazon
 
-Bamazon is an Amazone-like onine store front store.
+Bamazon is an Amazon-like online store front.
 The app takes in the orders (ID and quantity of the product) and depletes the stock from store's inventory.
 
 This is a CLI application.
