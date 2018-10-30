@@ -20,7 +20,7 @@ This is a CLI application.
   Bamazon then takes in the stock inventory and makes the relevant changes to it based on customer input.
 * The application also check if the store has enough of the product to meet the customer's request. If not, it prevents the order from      going through.
 
-  ![GitHub Logo](/assets/images/CustomerInterface_1.PNG)
+  ![GitHub Logo](/assets/images/CustomerInterface_2.PNG)
 
 
 
